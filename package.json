@@ -1,0 +1,20 @@
+{
+  "name": "tv_series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "series/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.15.0",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "playwright": "^1.15.0",
+    "playwright-test": "^7.1.0"
+  }
+}
